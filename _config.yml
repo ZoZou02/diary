@@ -1,6 +1,6 @@
 name: ZoZou
 permalink: :year/:month/:day/:title
-baseurl: /jekyll-theme-diary
+baseurl: /diary
 
 # Your blog's start year and this year, showed in the footer left
 # start is optional
